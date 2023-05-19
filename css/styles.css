@@ -11,7 +11,7 @@
 }
 •	
 .footer{
-    background-color: #D1C4E9;
+    background-color: #250d52;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -28,3 +28,10 @@ address{
     color:#0f0f0f;
 }
 
+body {
+    padding-top: 50px;
+    z-index:0;
+}
+.navbar-dark {
+    background-color: #512DA8;
+}
